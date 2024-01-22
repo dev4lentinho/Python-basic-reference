@@ -1,4 +1,6 @@
 
+#! spanish
+
 # TODO: Operadores aritmeticos
 
 # print(6 + 4) #* esto es una suma
