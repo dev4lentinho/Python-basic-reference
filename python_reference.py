@@ -23,8 +23,3 @@
 # print(True and False) #* Si ambos son True devuelve True
 # print(False or True) #* Si uno es true devuelve True
 # print(not(False)) #* Convierte el valor al valor contrario
-
-
-# udndneej
-
-# # # # sexp
